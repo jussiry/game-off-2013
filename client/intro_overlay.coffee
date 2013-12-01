@@ -11,8 +11,9 @@ global.intro =
         Colors can be played with one or two players.
         <span class='blue_text'>Blue player</span> uses <pre>arrows keys</pre> to move and
           <span class='red_text'>red player</span> uses <pre>a, s, d and w</pre> keys.
-            <span style='color:#999'>Shadow mode</span> can be accessed from <pre>ctrl, shift or alt</pre> keys.</div>
+            <span style=''>Shadow mode</span> can be accessed with <pre>ctrl, shift or alt</pre> keys.</div>
 
+      <p>This game would not have happened without <a href='http://wellcaffeinated.net/PhysicsJS/' target='_blank'>PhysicsJS</a> and <a href='http://www.pixijs.com/' target='_blank'>pixi.js</a></p>
       <p style='text-align: center;'>Press any key</p>
       <!--div style='text-align: center;'><button id='start'>Start the game!</button></div-->
     """
